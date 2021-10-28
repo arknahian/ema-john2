@@ -1,0 +1,8 @@
+.reviewedProduct h3{
+    color: blue;
+}
+.reviewedProduct{
+    margin-left: 100px;
+    border-bottom: 1px solid grey;
+    padding: 50px;
+}

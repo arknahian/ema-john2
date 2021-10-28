@@ -1,0 +1,10 @@
+.cart{
+    margin-left: 100px;
+}
+.cart h3{
+    font-weight: 500;
+    text-align: center;
+}
+.cart p {
+    line-height: 10px;
+}

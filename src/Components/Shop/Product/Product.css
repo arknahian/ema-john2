@@ -1,0 +1,9 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid lightgrey;
+    margin: 20px;
+    padding: 10px;
+}
+.product-description{
+    margin-left: 30px;
+}
